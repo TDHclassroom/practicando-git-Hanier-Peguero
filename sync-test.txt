@@ -1,0 +1,3 @@
+cualquier contenido sync-test
+
+echo"Test de sincronización"
